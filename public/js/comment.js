@@ -1,8 +1,7 @@
 const newFormHandler = async (event) => {
     event.preventDefault();
-    // need to come back and mess with selectors
-    const text = document.querySelector('#name-signup').value.trim();
-    const project_id = document.querySelector('#email-signup').value.trim();
+    const text = document.querySelector('#comment-desc').value.trim();
+    const project_id = document.querySelector('#post_id').value.trim();
   
     if (text) {
       const response = await fetch('/api/comments', {
@@ -19,5 +18,5 @@ const newFormHandler = async (event) => {
       }
     }
   };
-  //need to add params
-  document.querySelector('').addEventListener(,newFormHandler)
+
+  document.querySelector('#comment-btn').addEventListener('submit',newFormHandler)
