@@ -9,19 +9,18 @@ Features implemented include:
 - storage of user credentials
 - ability to comment on posts
 - routing to take you show a user-created blog post or comment
-- MVC design
+- MVC paradigm
+- deployment to external server (heroku)
+
+## Live Site:
+https://mvc-tech-blog-wtriii.herokuapp.com/
 
 ### Homepage
-
+![home page](references/tech-blog-homepage.png)
 ### Sign-in/Sign Up Page
-
+![login page](Assets/tech-blog-login-page.png)
 ### Post with comments
-
-
-
-
-
-
+![comments](Assets/tech-blog-comments.png)
 
 
 # Original User Story follows:
