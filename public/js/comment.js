@@ -20,5 +20,5 @@ const newFormHandler = async (event) => {
       }
     }
   };
-
+// Damien Luzzo and Ethan Cho determined that the query selector needed to listen for a class, not a button
   document.querySelector('.new-project-form').addEventListener('submit',newFormHandler)
