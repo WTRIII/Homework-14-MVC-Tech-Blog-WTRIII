@@ -1,7 +1,33 @@
 # Homework-14-MVC-Tech-Blog-WTRIII
 
-# 14 Model-View-Controller (MVC): Tech Blog
+## Summary
+The client requested a CMS blog-style site that could be interacted with by coders and developers to discuss various topics. Users needed to be able to create accounts, login, create threads (or projects), and leave comments on each project.
 
+Features implemented include:
+- homepage with blog posts visible
+- sign-in/sign-up page
+- storage of user credentials
+- ability to comment on posts
+- routing to take you show a user-created blog post or comment
+- MVC design
+
+### Homepage
+
+### Sign-in/Sign Up Page
+
+### Post with comments
+
+
+
+
+
+
+
+
+# Original User Story follows:
+----------
+# 14 Model-View-Controller (MVC): Tech Blog
+----------
 ## Your Task
 
 Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!
