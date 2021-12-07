@@ -16,11 +16,11 @@ Features implemented include:
 https://mvc-tech-blog-wtriii.herokuapp.com/
 
 ### Homepage
-![home page](references/tech-blog-homepage.png)
+![home page](references/tech-blog-homepage.PNG)
 ### Sign-in/Sign Up Page
-![login page](Assets/tech-blog-login-page.png)
+![login page](Assets/tech-blog-login-page.PNG)
 ### Post with comments
-![comments](Assets/tech-blog-comments.png)
+![comments](Assets/tech-blog-comments.PNG)
 
 
 # Original User Story follows:
