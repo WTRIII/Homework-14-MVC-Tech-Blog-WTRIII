@@ -18,9 +18,9 @@ https://mvc-tech-blog-wtriii.herokuapp.com/
 ### Homepage
 ![home page](references/tech-blog-homepage.PNG)
 ### Sign-in/Sign Up Page
-![login page](Assets/tech-blog-login-page.PNG)
+![login page](references/tech-blog-login-page.PNG)
 ### Post with comments
-![comments](Assets/tech-blog-comments.PNG)
+![comments](references/tech-blog-comments.PNG)
 
 
 # Original User Story follows:
